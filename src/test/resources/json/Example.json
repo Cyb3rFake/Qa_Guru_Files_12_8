@@ -1,0 +1,10 @@
+{
+  "fruit": "Apple",
+  "size": "Large",
+  "color": "Red",
+  "people": ["girls", "woman"],
+  "taste": {
+    "color": "yellow",
+    "taste": "sweet"
+  }
+}
